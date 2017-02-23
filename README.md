@@ -1,2 +1,2 @@
-# coding-styles
+# Coding styles
 Containing the coding styles for different types of projects
